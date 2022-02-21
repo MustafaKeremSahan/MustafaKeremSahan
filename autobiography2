@@ -1,0 +1,50 @@
+<html>
+    <title>Benim otobiografim</title>
+<body>
+<h1>Mustafa Kerem</h1>
+<h4>Merhaba. ben Mustafa Kerem. Istanbulda yaşıyorum. Kitap okumayı ve yazılım
+ çalışmayı seviyorum. Web front-end ile ilgileniyorum.Kodluyoruzda kendi web sitemi
+ yapmaktan keyif duyuyorum ve hepsi Kodluyoruz sayesinde. </h4>
+
+ <h2>sevdiğim filmler</h2>
+ <ul>
+
+
+    <li><a href="https://www.fullhdfilmizlesene.pw/film/canavarlar-ligi-rumble/">
+    Rumble
+</a></li> 
+ 
+
+<li><a href="https://www.fullhdfilmizlesene.pw/film/pasifik-savasi-izle/">
+    Pacific Rim
+ </a></li>
+ 
+ 
+ <li><a href="https://www.fullhdfilmizlesene.pw/film/evde-tek-basina-1990-izle/">
+    Home Alone
+</a></li>
+ </ul>
+<h2>Sevdiğim Diziler</h2>
+<ul>
+  <li><a href="https://www.trtizle.com/diziler/gonul-dagi">Gönül Dağı</a></li>
+  <li><a href="https://www.trtizle.com/diziler/teskilat">Teşkilat</a></li>
+  <li><a href="https://www.trtizle.com/diziler/dirilis-ertugrul">Diriliş Ertuğrul</a></li>
+</ul>
+<h2>Sevdiğim Kitaplar</h2>
+<ul>
+
+<li><a href="https://www.kitapyurdu.com/kitap/abartma-tozu/507885.html">
+    Abartma Tozu
+</a></li>
+<li><a href="https://www.kitapyurdu.com/kitap/babaannem-geri-dondu/578116.html">
+    Babannem Geri Döndü
+</a></li>
+<li><a href="https://www.kitapyurdu.com/kitap/dedemin-bakkali/407454.html">
+    Dedemin Bakkalı
+</a></li>
+</ul>
+<em><h1>Pacific Rim</h1></em>
+<img src="https://c4.wallpaperflare.com/wallpaper/246/645/110/pacific-rim-hd-wallpaper-preview.jpg" border="5">
+<b><em><h4>2020 yıllarında bu dünyaya ait olmayan birtakım yaratıklar Büyük Okyanus’un derinliklerinden ortaya çıkmaya başlarlar. Bu yaratıklar Kaiju adı verilen devasa ve korkunç yaratıklardır. Bu devasa yaratıkların Dünya’yı yok etmesini engellemek için girilen savaştır Pasifik Savaşı.</h4></em></b>
+</body>
+</html>
